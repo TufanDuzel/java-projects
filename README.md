@@ -1,7 +1,9 @@
 Java Projects Repository
+
 Welcome to my Java Projects repository! This collection showcases my practical work and experiences with Java programming. Each project is designed to demonstrate different concepts and techniques within the Java language.
 
 Repository Structure
+
 Each project is contained within its own folder, making it easy to navigate and understand.
 Every project includes a README.md file that provides:
 An overview of the project
