@@ -1,0 +1,5 @@
+- Lottery Number Generator -
+
+The goal of this project is to simulate a lottery number generator by selecting six unique random numbers from a given range (1 to 49), sorting them, and displaying the result. This project provides practical experience in several fundamental programming concepts. It focuses on generating random numbers using the Random class in Java and handling potential repetitions to ensure that each number is unique. By storing the generated numbers in an array, the project demonstrates how to work with arrays for data storage and manipulation. Sorting the numbers showcases how algorithms like array sorting can be applied to organize data. Additionally, the project reinforces the use of control structures such as loops and conditional statements to manage the flow of operations, especially for checking duplicates and iterating through the array. Overall, this exercise helps to build foundational skills in handling random data, managing arrays, and implementing algorithms efficiently.
+
+Publisher: Tufan Duzel.
